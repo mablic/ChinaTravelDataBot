@@ -1,0 +1,2039 @@
+{
+  "beijing": {
+    "places": [
+      {
+        "id": "beijing1",
+        "name": "Great Wall of China",
+        "chineseName": "长城",
+        "description": "The Great Wall of China is a series of fortifications and walls built across the historical northern borders of ancient Chinese states and Imperial China to protect against nomadic invasions.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fbeijing%2Fbeijing1.png?alt=media",
+        "location": { "latitude": 40.4319, "longitude": 116.5704 },
+        "address": "Mutianyu, Huairou District, Beijing",
+        "operationHours": "Daily: 7:30 AM - 5:30 PM",
+        "phoneNumber": "+86 10 6162 6022",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "beijing2",
+        "name": "Forbidden City",
+        "chineseName": "故宫",
+        "description": "The Forbidden City is the former Chinese imperial palace from the Ming dynasty to the end of the Qing dynasty. It now houses the Palace Museum.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fbeijing%2Fbeijing2.png?alt=media",
+        "location": { "latitude": 39.9167, "longitude": 116.3833 },
+        "address": "4 Jingshan Front St, Dongcheng District, Beijing",
+        "operationHours": "Tue-Sun: 8:30 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 10 8500 7421",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "beijing3",
+        "name": "Temple of Heaven",
+        "chineseName": "天坛",
+        "description": "The Temple of Heaven is an imperial complex of religious buildings situated in the southeastern part of central Beijing. It was visited by the Emperors of the Ming and Qing dynasties for annual ceremonies of prayer to Heaven for good harvest.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fbeijing%2Fbeijing3.png?alt=media",
+        "location": { "latitude": 39.8822, "longitude": 116.4066 },
+        "address": "1 Tiantan E Rd, Dongcheng District, Beijing",
+        "operationHours": "Daily: 6:00 AM - 8:00 PM",
+        "phoneNumber": "+86 10 6702 8866",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "shanghai": {
+    "places": [
+      {
+        "id": "shanghai1",
+        "name": "The Bund",
+        "chineseName": "外滩",
+        "description": "The Bund is a waterfront area in central Shanghai, featuring iconic buildings and a stunning view of the Pudong skyline.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fshanghai%2Fshanghai1.png?alt=media",
+        "location": { "latitude": 31.2304, "longitude": 121.4737 },
+        "address": "Zhongshan East 1st Rd, Huangpu District, Shanghai",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "shanghai2",
+        "name": "Yu Garden",
+        "chineseName": "豫园",
+        "description": "Yu Garden is an extensive Chinese garden located beside the City God Temple in the northeast of the Old City of Shanghai.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fshanghai%2Fshanghai2.png?alt=media",
+        "location": { "latitude": 31.2271, "longitude": 121.4921 },
+        "address": "218 Anren St, Huangpu District, Shanghai",
+        "operationHours": "Daily: 8:30 AM - 5:00 PM",
+        "phoneNumber": "+86 21 6326 0830",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "shanghai3",
+        "name": "Shanghai Tower",
+        "chineseName": "上海中心大厦",
+        "description": "Shanghai Tower is a 632-meter (2,073 ft), 128-story megatall skyscraper in Lujiazui, Pudong, Shanghai. It is the world's second-tallest building by height to architectural top.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fshanghai%2Fshanghai3.png?alt=media",
+        "location": { "latitude": 31.2335, "longitude": 121.5056 },
+        "address": "501 Yincheng Middle Rd, Lujiazui, Pudong, Shanghai",
+        "operationHours": "Daily: 8:30 AM - 10:00 PM",
+        "phoneNumber": "+86 21 2065 6999",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "xian": {
+    "places": [
+      {
+        "id": "4",
+        "name": "Terracotta Army",
+        "chineseName": "兵马俑",
+        "description": "The Terracotta Army is a collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first Emperor of China. It is a form of funerary art buried with the emperor in 210–209 BCE with the purpose of protecting the emperor in his afterlife.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fxian%2F4.png?alt=media",
+        "location": { "latitude": 34.3841, "longitude": 109.2785 },
+        "address": "Lintong District, Xi'an, Shaanxi, China",
+        "operationHours": "Daily: 8:30 AM - 5:00 PM",
+        "phoneNumber": "+86 29 8139 9001",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "shenyang": {
+    "places": [
+      {
+        "id": "shenyang1",
+        "name": "Shenyang Imperial Palace",
+        "chineseName": "沈阳故宫",
+        "description": "The Shenyang Imperial Palace, also known as Mukden Palace, was the former imperial palace of the early Qing dynasty. It is a UNESCO World Heritage Site.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fshenyang%2Fshenyang1.png?alt=media",
+        "location": { "latitude": 41.7958, "longitude": 123.4457 },
+        "address": "171 Shenyang Rd, Shenhe District, Shenyang",
+        "operationHours": "Tue-Sun: 8:30 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 24 2484 5393",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "shenyang2",
+        "name": "Beiling Park",
+        "chineseName": "北陵公园",
+        "description": "Beiling Park is a public park and historic site in Shenyang, centered on the tomb of Huang Taiji, the second emperor of the Qing dynasty.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fshenyang%2Fshenyang2.png?alt=media",
+        "location": { "latitude": 41.8456, "longitude": 123.4177 },
+        "address": "Beiling Park, Huanggu District, Shenyang",
+        "operationHours": "Daily: 6:00 AM - 8:00 PM",
+        "phoneNumber": "+86 24 8685 3930",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "shenyang3",
+        "name": "Shenyang Botanical Garden",
+        "chineseName": "沈阳植物园",
+        "description": "Shenyang Botanical Garden is a large botanical garden featuring a wide variety of plants and beautiful landscapes.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fshenyang%2Fshenyang3.png?alt=media",
+        "location": { "latitude": 41.7739, "longitude": 123.4314 },
+        "address": "1 Botanical Garden Rd, Shenhe District, Shenyang",
+        "operationHours": "Daily: 8:00 AM - 5:00 PM",
+        "phoneNumber": "+86 24 2390 3333",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "shenzhen": {
+    "places": [
+      {
+        "id": "shenzhen1",
+        "name": "Window of the World",
+        "chineseName": "世界之窗",
+        "description": "Window of the World is a theme park featuring miniature replicas of famous landmarks from around the globe.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fshenzhen%2Fshenzhen1.png?alt=media",
+        "location": { "latitude": 22.5354, "longitude": 113.9739 },
+        "address": "9037 Shennan Ave, Nanshan District, Shenzhen",
+        "operationHours": "Daily: 9:00 AM - 10:30 PM",
+        "phoneNumber": "+86 755 2660 8000",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "shenzhen2",
+        "name": "Splendid China Folk Village",
+        "chineseName": "锦绣中华民俗村",
+        "description": "Splendid China Folk Village is a theme park showcasing China's history, culture, and ethnic diversity through miniature replicas and performances.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fshenzhen%2Fshenzhen2.png?alt=media",
+        "location": { "latitude": 22.5326, "longitude": 113.9868 },
+        "address": "Overseas Chinese Town, Nanshan District, Shenzhen",
+        "operationHours": "Daily: 9:00 AM - 9:30 PM",
+        "phoneNumber": "+86 755 2693 8888",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "shenzhen3",
+        "name": "Shenzhen Museum",
+        "chineseName": "深圳博物馆",
+        "description": "Shenzhen Museum showcases the city's history, culture, and rapid development through various exhibits and artifacts.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fshenzhen%2Fshenzhen3.png?alt=media",
+        "location": { "latitude": 22.5431, "longitude": 114.0579 },
+        "address": "6 Tongxin Rd, Futian District, Shenzhen",
+        "operationHours": "Tue-Sun: 10:00 AM - 6:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 755 8810 8288",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "guangzhou": {
+    "places": [
+      {
+        "id": "guangzhou1",
+        "name": "Canton Tower",
+        "chineseName": "广州塔",
+        "description": "Canton Tower is a 604-meter tall multi-purpose observation tower offering panoramic views of Guangzhou.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fguangzhou%2Fguangzhou1.png?alt=media",
+        "location": { "latitude": 23.1066, "longitude": 113.3217 },
+        "address": "222 Yuejiang W Rd, Haizhu District, Guangzhou",
+        "operationHours": "Daily: 9:30 AM - 10:30 PM",
+        "phoneNumber": "+86 20 8933 8222",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "guangzhou2",
+        "name": "Chen Clan Ancestral Hall",
+        "description": "Chen Clan Ancestral Hall is a historic building complex featuring traditional Guangdong architecture and craftsmanship.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fguangzhou%2Fguangzhou2.png?alt=media",
+        "location": { "latitude": 23.1254, "longitude": 113.2569 },
+        "address": "7 Zhongshan 7th Rd, Liwan District, Guangzhou",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:30 PM (Closed on Mondays)",
+        "phoneNumber": "+86 20 8181 4559",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "guangzhou3",
+        "name": "Shamian Island",
+        "chineseName": "沙面岛",
+        "description": "Shamian Island is a sandbank island in the Liwan District of Guangzhou with a rich history and European-style architecture.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fguangzhou%2Fguangzhou3.png?alt=media",
+        "location": { "latitude": 23.1076, "longitude": 113.2442 },
+        "address": "Shamian St, Liwan District, Guangzhou",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "chengdu": {
+    "places": [
+      {
+        "id": "chengdu1",
+        "name": "Giant Panda Breeding Research Base",
+        "chineseName": "大熊猫繁育研究基地",
+        "description": "The Chengdu Research Base of Giant Panda Breeding is a non-profit research and breeding facility for giant pandas and other rare animals.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fchengdu%2Fchengdu1.png?alt=media",
+        "location": { "latitude": 30.7331, "longitude": 104.1419 },
+        "address": "1375 Xiongmao Ave, Chenghua District, Chengdu",
+        "operationHours": "Daily: 7:30 AM - 6:00 PM",
+        "phoneNumber": "+86 28 8351 0033",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "chengdu2",
+        "name": "Jinli Ancient Street",
+        "chineseName": "锦里古街",
+        "description": "Jinli Ancient Street is a famous pedestrian street showcasing the culture of Sichuan, featuring traditional architecture, food, and crafts.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fchengdu%2Fchengdu2.png?alt=media",
+        "location": { "latitude": 30.6500, "longitude": 104.0478 },
+        "address": "231 Wuhouci St, Wuhou District, Chengdu",
+        "operationHours": "Daily: 10:00 AM - 10:00 PM",
+        "phoneNumber": "+86 28 8666 5858",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "chengdu3",
+        "name": "Leshan Giant Buddha",
+        "chineseName": "乐山大佛",
+        "description": "The Leshan Giant Buddha is a 71-meter tall stone statue built during the Tang Dynasty, depicting Maitreya Buddha.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fchengdu%2Fchengdu3.png?alt=media",
+        "location": { "latitude": 29.5446, "longitude": 103.7702 },
+        "address": "Leshan City, Sichuan Province",
+        "operationHours": "Daily: 7:30 AM - 6:30 PM",
+        "phoneNumber": "+86 833 230 2227",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "tianjin": {
+    "places": [
+      {
+        "id": "tianjin1",
+        "name": "Tianjin Eye",
+        "chineseName": "天津之眼",
+        "description": "The Tianjin Eye is a 120-meter tall giant Ferris wheel built over the Yongle Bridge, offering panoramic views of the city.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Ftianjin%2Ftianjin1.png?alt=media",
+        "location": { "latitude": 39.1383, "longitude": 117.1766 },
+        "address": "Yongle Bridge, Hebei District, Tianjin",
+        "operationHours": "Daily: 9:30 AM - 9:30 PM",
+        "phoneNumber": "+86 22 2628 8830",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "tianjin2",
+        "name": "Porcelain House",
+        "chineseName": "瓷房子",
+        "description": "The Porcelain House is a contemporary museum and work of art covered in ancient porcelain, crystal, and antique china.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Ftianjin%2Ftianjin2.png?alt=media",
+        "location": { "latitude": 39.1178, "longitude": 117.1633 },
+        "address": "72 Chifeng Rd, Heping District, Tianjin",
+        "operationHours": "Daily: 9:00 AM - 5:00 PM",
+        "phoneNumber": "+86 22 2730 3450",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "tianjin3",
+        "name": "Five Great Avenues",
+        "chineseName": "五大道",
+        "description": "The Five Great Avenues area features over 230 buildings with various architectural styles from the 1920s and 1930s.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Ftianjin%2Ftianjin3.png?alt=media",
+        "location": { "latitude": 39.1166, "longitude": 117.1833 },
+        "address": "Wudadao, Heping District, Tianjin",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "wuhan": {
+    "places": [
+      {
+        "id": "wuhan1",
+        "name": "Yellow Crane Tower",
+        "chineseName": "黄鹤楼",
+        "description": "Yellow Crane Tower is a famous landmark of Wuhan with a history of over 1,800 years, offering panoramic views of the Yangtze River.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fwuhan%2Fwuhan1.png?alt=media",
+        "location": { "latitude": 30.5433, "longitude": 114.3062 },
+        "address": "1 Wuluo Rd, Wuchang District, Wuhan",
+        "operationHours": "Daily: 7:30 AM - 6:30 PM",
+        "phoneNumber": "+86 27 8873 1803",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "wuhan2",
+        "name": "East Lake",
+        "chineseName": "东湖",
+        "description": "East Lake is the largest urban lake in China, featuring beautiful landscapes, gardens, and recreational areas.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fwuhan%2Fwuhan2.png?alt=media",
+        "location": { "latitude": 30.5700, "longitude": 114.3672 },
+        "address": "Wuchang District, Wuhan",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "wuhan3",
+        "name": "Hubei Provincial Museum",
+        "chineseName": "湖北省博物馆",
+        "description": "Hubei Provincial Museum houses significant historical and cultural artifacts, including the renowned Marquis Yi of Zeng's chime bells.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fwuhan%2Fwuhan3.png?alt=media",
+        "location": { "latitude": 30.5469, "longitude": 114.4117 },
+        "address": "160 Donghu Rd, Wuchang District, Wuhan",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 27 8684 6001",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "hangzhou": {
+    "places": [
+      {
+        "id": "hangzhou1",
+        "name": "West Lake",
+        "chineseName": "西湖",
+        "description": "West Lake is a freshwater lake in Hangzhou, known for its scenic beauty and historical and cultural sites.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fhangzhou%2Fhangzhou1.png?alt=media",
+        "location": { "latitude": 30.2590, "longitude": 120.1301 },
+        "address": "West Lake, Hangzhou, Zhejiang",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "hangzhou2",
+        "name": "Lingyin Temple",
+        "chineseName": "灵隐寺",
+        "description": "Lingyin Temple is one of the largest and most visited Buddhist temples in China, known for its rich history and beautiful architecture.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fhangzhou%2Fhangzhou2.png?alt=media",
+        "location": { "latitude": 30.2417, "longitude": 120.0950 },
+        "address": "1 Fayun Alley, Xihu District, Hangzhou",
+        "operationHours": "Daily: 7:30 AM - 5:30 PM",
+        "phoneNumber": "+86 571 8796 8665",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "hangzhou3",
+        "name": "Xixi National Wetland Park",
+        "chineseName": "西溪国家湿地公园",
+        "description": "Xixi National Wetland Park is the first and only national wetland park in China, combining urban life, farming, and wetland cultures.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fhangzhou%2Fhangzhou3.png?alt=media",
+        "location": { "latitude": 30.2681, "longitude": 120.0633 },
+        "address": "Xixi Rd, Xihu District, Hangzhou",
+        "operationHours": "Daily: 8:00 AM - 5:00 PM",
+        "phoneNumber": "+86 571 8821 3333",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "dongguan": {
+    "places": [
+      {
+        "id": "dongguan1",
+        "name": "Opium War Museum",
+        "chineseName": "鸦片战争博物馆",
+        "description": "The Opium War Museum is dedicated to the history of the Opium Wars and their impact on Chinese society.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fdongguan%2Fdongguan1.png?alt=media",
+        "location": { "latitude": 22.9815, "longitude": 113.7453 },
+        "address": "Humen Town, Dongguan, Guangdong",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 769 8551 0700",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "dongguan2",
+        "name": "Keyuan Garden",
+        "chineseName": "可园",
+        "description": "Keyuan Garden is a classical Lingnan-style garden built in the Qing Dynasty, known for its exquisite architecture and landscaping.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fdongguan%2Fdongguan2.png?alt=media",
+        "location": { "latitude": 23.0489, "longitude": 113.7452 },
+        "address": "31 Keyuan Rd, Guancheng District, Dongguan",
+        "operationHours": "Daily: 8:30 AM - 5:30 PM",
+        "phoneNumber": "+86 769 2280 5783",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "dongguan3",
+        "name": "Huangqi Mountain Park",
+        "chineseName": "黄旗山公园",
+        "description": "Huangqi Mountain Park offers beautiful natural scenery, hiking trails, and panoramic views of Dongguan city.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fdongguan%2Fdongguan3.png?alt=media",
+        "location": { "latitude": 23.0700, "longitude": 113.8593 },
+        "address": "Dongcheng District, Dongguan",
+        "operationHours": "Daily: 6:00 AM - 10:00 PM",
+        "phoneNumber": "+86 769 2222 4430",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "chongqing": {
+    "places": [
+      {
+        "id": "chongqing1",
+        "name": "Ciqikou Ancient Town",
+        "chineseName": "磁器口古镇",
+        "description": "Ciqikou Ancient Town is a well-preserved town with a history of over 1,700 years, known for its traditional architecture and local culture.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fchongqing%2Fchongqing1.png?alt=media",
+        "location": { "latitude": 29.5737, "longitude": 106.4453 },
+        "address": "Shapingba District, Chongqing",
+        "operationHours": "Daily: 8:30 AM - 9:30 PM",
+        "phoneNumber": "+86 23 6530 5660",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "chongqing2",
+        "name": "Hongya Cave",
+        "chineseName": "洪崖洞",
+        "description": "Hongya Cave is a multi-story stilt house complex built into a cliff face, featuring shops, restaurants, and stunning night views.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fchongqing%2Fchongqing2.png?alt=media",
+        "location": { "latitude": 29.5633, "longitude": 106.5834 },
+        "address": "88 Binjiang Rd, Yuzhong District, Chongqing",
+        "operationHours": "Daily: 10:00 AM - 10:00 PM",
+        "phoneNumber": "+86 23 6303 8555",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "chongqing3",
+        "name": "Dazu Rock Carvings",
+        "chineseName": "大足石刻",
+        "description": "The Dazu Rock Carvings are a series of Chinese religious sculptures and carvings, dating back to the 7th century AD.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fchongqing%2Fchongqing3.png?alt=media",
+        "location": { "latitude": 29.7072, "longitude": 105.7114 },
+        "address": "Dazu District, Chongqing",
+        "operationHours": "Daily: 8:00 AM - 6:00 PM",
+        "phoneNumber": "+86 23 4327 1055",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "foshan": {
+    "places": [
+      {
+        "id": "foshan1",
+        "name": "Ancestral Temple of the Chen Family",
+        "chineseName": "陈家祠",
+        "description": "The Ancestral Temple of the Chen Family is a well-preserved example of Qing Dynasty architecture and a center for traditional Cantonese folk art.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Ffoshan%2Ffoshan1.png?alt=media",
+        "location": { "latitude": 23.0280, "longitude": 113.1094 },
+        "address": "Chen Clan Academy, Zhongshan 7th Rd, Liwan District, Guangzhou",
+        "operationHours": "Tue-Sun: 8:30 AM - 5:30 PM (Closed on Mondays)",
+        "phoneNumber": "+86 20 8181 4559",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "foshan2",
+        "name": "Foshan Ancestral Temple",
+        "chineseName": "佛山祖庙",
+        "description": "Foshan Ancestral Temple is a historic temple complex dedicated to the Chinese god Beidi, featuring intricate architecture and cultural performances.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Ffoshan%2Ffoshan2.png?alt=media",
+        "location": { "latitude": 23.0253, "longitude": 113.1072 },
+        "address": "21 Zumiao Rd, Chancheng District, Foshan",
+        "operationHours": "Daily: 8:30 AM - 5:30 PM",
+        "phoneNumber": "+86 757 8222 8666",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "foshan3",
+        "name": "Qinghui Garden",
+        "chineseName": "清晖园",
+        "description": "Qinghui Garden is a classical Lingnan-style garden known for its exquisite landscaping, architecture, and cultural significance.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Ffoshan%2Ffoshan3.png?alt=media",
+        "location": { "latitude": 23.0344, "longitude": 113.1139 },
+        "address": "1 Fenjiang N Rd, Chancheng District, Foshan",
+        "operationHours": "Daily: 8:30 AM - 5:30 PM",
+        "phoneNumber": "+86 757 8225 3345",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "suzhou": {
+    "places": [
+      {
+        "id": "suzhou1",
+        "name": "Humble Administrator's Garden",
+        "chineseName": "拙政园",
+        "description": "The Humble Administrator's Garden is the largest and most renowned classical garden in Suzhou, known for its exquisite design and natural beauty.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fsuzhou%2Fsuzhou1.png?alt=media",
+        "location": { "latitude": 31.3222, "longitude": 120.6292 },
+        "address": "178 Dongbei St, Gusu District, Suzhou",
+        "operationHours": "Daily: 7:30 AM - 5:30 PM",
+        "phoneNumber": "+86 512 6751 0286",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "suzhou2",
+        "name": "Tiger Hill",
+        "chineseName": "虎丘",
+        "description": "Tiger Hill is a popular tourist destination featuring the leaning Cloud Rock Pagoda, beautiful gardens, and historical sites.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fsuzhou%2Fsuzhou2.png?alt=media",
+        "location": { "latitude": 31.3336, "longitude": 120.5780 },
+        "address": "8 Huqiu Rd, Gusu District, Suzhou",
+        "operationHours": "Daily: 7:30 AM - 5:30 PM",
+        "phoneNumber": "+86 512 6532 3488",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "suzhou3",
+        "name": "Suzhou Museum",
+        "chineseName": "苏州博物馆",
+        "description": "Suzhou Museum, designed by I.M. Pei, houses a collection of ancient Chinese art, including paintings, calligraphy, and handmade crafts.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fsuzhou%2Fsuzhou3.png?alt=media",
+        "location": { "latitude": 31.3199, "longitude": 120.6289 },
+        "address": "204 Dongbei St, Gusu District, Suzhou",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 512 6757 5666",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "jinan": {
+    "places": [
+      {
+        "id": "jinan1",
+        "name": "Daming Lake",
+        "chineseName": "大明湖",
+        "description": "Daming Lake is a famous scenic spot in Jinan, known for its natural springs, beautiful landscapes, and historical pavilions.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fjinan%2Fjinan1.png?alt=media",
+        "location": { "latitude": 36.6656, "longitude": 117.0234 },
+        "address": "Daming Lake Scenic Area, Lixia District, Jinan",
+        "operationHours": "Daily: 6:00 AM - 10:00 PM",
+        "phoneNumber": "+86 531 8692 7632",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "jinan2",
+        "name": "Thousand Buddha Mountain",
+        "chineseName": "千佛山",
+        "description": "Thousand Buddha Mountain is a famous mountain park featuring ancient Buddhist rock carvings, temples, and panoramic views of Jinan.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fjinan%2Fjinan2.png?alt=media",
+        "location": { "latitude": 36.6430, "longitude": 117.0594 },
+        "address": "Thousand Buddha Mountain, Lixia District, Jinan",
+        "operationHours": "Daily: 7:00 AM - 6:00 PM",
+        "phoneNumber": "+86 531 8275 5868",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "jinan3",
+        "name": "Baotu Spring Park",
+        "chineseName": "趵突泉",
+        "description": "Baotu Spring Park is home to the famous Baotu Spring, known as the 'First Spring under Heaven', and features beautiful gardens and historic buildings.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fjinan%2Fjinan3.png?alt=media",
+        "location": { "latitude": 36.6611, "longitude": 116.9975 },
+        "address": "1 Baotuquan S Rd, Lixia District, Jinan",
+        "operationHours": "Daily: 6:30 AM - 9:00 PM",
+        "phoneNumber": "+86 531 8608 6978",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "qingdao": {
+    "places": [
+      {
+        "id": "qingdao1",
+        "name": "Zhanqiao Pier",
+        "chineseName": "栈桥",
+        "description": "Zhanqiao Pier is an iconic landmark of Qingdao, offering beautiful views of the sea and the city's skyline.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fqingdao%2Fqingdao1.png?alt=media",
+        "location": { "latitude": 36.0619, "longitude": 120.3165 },
+        "address": "21 Taiping Rd, Shinan District, Qingdao",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "qingdao2",
+        "name": "Laoshan Scenic Area",
+        "chineseName": "崂山风景区",
+        "description": "Laoshan Scenic Area is a famous mountain area known for its breathtaking landscapes, Taoist temples, and tea plantations.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fqingdao/%2Fqingdao2.png?alt=media",
+        "location": { "latitude": 36.1075, "longitude": 120.4700 },
+        "address": "Laoshan District, Qingdao",
+        "operationHours": "Daily: 7:00 AM - 6:00 PM",
+        "phoneNumber": "+86 532 8890 3034",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "qingdao3",
+        "name": "Qingdao Beer Museum",
+        "chineseName": "青岛啤酒博物馆",
+        "description": "The Qingdao Beer Museum showcases the history of Tsingtao Brewery and offers beer tasting experiences.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fqingdao/%2Fqingdao3.png?alt=media",
+        "location": { "latitude": 36.0658, "longitude": 120.3165 },
+        "address": "56 Dengzhou Rd, Shibei District, Qingdao",
+        "operationHours": "Daily: 8:30 AM - 5:00 PM",
+        "phoneNumber": "+86 532 8383 3437",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "shijiazhuang": {
+    "places": [
+      {
+        "id": "shijiazhuang1",
+        "name": "Zhaozhou Bridge",
+        "chineseName": "赵州桥",
+        "description": "Zhaozhou Bridge is the oldest standing stone arch bridge in China, known for its unique design and historical significance.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fshijiazhuang%2Fshijiazhuang1.png?alt=media",
+        "location": { "latitude": 37.5431, "longitude": 114.6647 },
+        "address": "Zhao County, Shijiazhuang",
+        "operationHours": "Daily: 8:00 AM - 6:00 PM",
+        "phoneNumber": "+86 311 8461 3792",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "shijiazhuang2",
+        "name": "Cangyan Mountain Scenic Area",
+        "chineseName": "苍岩山风景区",
+        "description": "Cangyan Mountain Scenic Area features ancient temples, stunning natural landscapes, and was a filming location for 'Crouching Tiger, Hidden Dragon'.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fshijiazhuang%2Fshijiazhuang2.png?alt=media",
+        "location": { "latitude": 38.0417, "longitude": 113.8233 },
+        "address": "Jingxing County, Shijiazhuang",
+        "operationHours": "Daily: 7:00 AM - 6:00 PM",
+        "phoneNumber": "+86 311 8280 5800",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "shijiazhuang3",
+        "name": "Xibaipo Memorial",
+        "chineseName": "西柏坡纪念馆",
+        "description": "Xibaipo Memorial is a historical site commemorating the Communist Party of China's leadership in the late 1940s before the founding of the People's Republic of China.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fshijiazhuang%2Fshijiazhuang3.png?alt=media",
+        "location": { "latitude": 38.2289, "longitude": 113.9789 },
+        "address": "Pingshan County, Shijiazhuang",
+        "operationHours": "Tue-Sun: 8:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 311 8281 2703",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "dalian": {
+    "places": [
+      {
+        "id": "dalian1",
+        "name": "Xinghai Square",
+        "chineseName": "星海广场",
+        "description": "Xinghai Square is one of the largest city squares in the world, featuring a music fountain, sculptures, and beautiful coastal views.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fdalian%2Fdalian1.png?alt=media",
+        "location": { "latitude": 38.8738, "longitude": 121.5452 },
+        "address": "Shahekou District, Dalian",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "dalian2",
+        "name": "Sunasia Ocean World",
+        "chineseName": "圣亚海洋世界",
+        "description": "Sunasia Ocean World is a large aquarium featuring a wide variety of marine life, shows, and interactive experiences.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fdalian%2Fdalian2.png?alt=media",
+        "location": { "latitude": 38.8643, "longitude": 121.5372 },
+        "address": "73 Binhai Rd, Xigang District, Dalian",
+        "operationHours": "Daily: 9:00 AM - 5:30 PM",
+        "phoneNumber": "+86 411 8240 6666",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "dalian3",
+        "name": "Jinshitan Scenic Area",
+        "chineseName": "金石滩风景区",
+        "description": "Jinshitan Scenic Area, also known as Golden Pebble Beach, features a beautiful coastline, unique rock formations, and various recreational activities.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fdalian%2Fdalian3.png?alt=media",
+        "location": { "latitude": 39.0550, "longitude": 121.8119 },
+        "address": "Jinzhou District, Dalian",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": "+86 411 8750 2222",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "xiamen": {
+    "places": [
+      {
+        "id": "xiamen1",
+        "name": "Gulangyu Island",
+        "chineseName": "鼓浪屿",
+        "description": "Gulangyu Island is a pedestrian-only island off the coast of Xiamen, known for its beautiful beaches, Victorian-era architecture, and piano museum.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fxiamen%2Fxiamen1.png?alt=media",
+        "location": { "latitude": 24.4478, "longitude": 118.0689 },
+        "address": "Gulangyu Island, Siming District, Xiamen",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "xiamen2",
+        "name": "South Putuo Temple",
+        "chineseName": "南普陀寺",
+        "description": "South Putuo Temple is a famous Buddhist temple with a history of over 1,000 years, featuring beautiful architecture and ocean views.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fxiamen%2Fxiamen2.png?alt=media",
+        "location": { "latitude": 24.4386, "longitude": 118.0847 },
+        "address": "515 Siming S Rd, Siming District, Xiamen",
+        "operationHours": "Daily: 4:30 AM - 6:00 PM",
+        "phoneNumber": "+86 592 2087 322",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "xiamen3",
+        "name": "Xiamen University",
+        "chineseName": "厦门大学",
+        "description": "Xiamen University is one of China's most beautiful campuses, known for its picturesque landscapes and traditional Chinese architecture.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fxiamen%2Fxiamen3.png?alt=media",
+        "location": { "latitude": 24.4398, "longitude": 118.0984 },
+        "address": "422 Siming S Rd, Siming District, Xiamen",
+        "operationHours": "Daily: 8:00 AM - 5:00 PM",
+        "phoneNumber": "+86 592 2180 000",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "nanning": {
+    "places": [
+      {
+        "id": "nanning1",
+        "name": "Qingxiu Mountain",
+        "chineseName": "青秀山",
+        "description": "Qingxiu Mountain is a scenic area featuring lush forests, Buddhist temples, and beautiful landscapes.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fnanning%2Fnanning1.png?alt=media",
+        "location": { "latitude": 22.7833, "longitude": 108.3667 },
+        "address": "Qingxiu District, Nanning",
+        "operationHours": "Daily: 7:00 AM - 6:00 PM",
+        "phoneNumber": "+86 771 3800 318",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "nanning2",
+        "name": "Nanning Zoo",
+        "chineseName": "南宁动物园",
+        "description": "Nanning Zoo is one of the largest zoos in China, home to a wide variety of animals including pandas, elephants, and tigers.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fnanning%2Fnanning2.png?alt=media",
+        "location": { "latitude": 22.8372, "longitude": 108.3181 },
+        "address": "129 Xixiangtang Rd, Xixiangtang District, Nanning",
+        "operationHours": "Daily: 8:00 AM - 5:30 PM",
+        "phoneNumber": "+86 771 5614 116",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "nanning3",
+        "name": "Guangxi Museum of Nationalities",
+        "chineseName": "广西民族博物馆",
+        "description": "The Guangxi Museum of Nationalities showcases the culture and history of Guangxi's ethnic minorities through exhibits and artifacts.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fnanning%2Fnanning3.png?alt=media",
+        "location": { "latitude": 22.8167, "longitude": 108.3667 },
+        "address": "39 Minzu Ave, Qingxiu District, Nanning",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 771 5626 571",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "changchun": {
+    "places": [
+      {
+        "id": "changchun1",
+        "name": "Puppet Emperor's Palace",
+        "chineseName": "伪满皇宫博物院",
+        "description": "The Puppet Emperor's Palace, also known as the Museum of the Imperial Palace of Manchukuo, showcases the history of Japanese occupation in Northeast China.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fchangchun%2Fchangchun1.png?alt=media",
+        "location": { "latitude": 43.9047, "longitude": 125.3489 },
+        "address": "5 Guangfu N Rd, Kuancheng District, Changchun",
+        "operationHours": "Tue-Sun: 8:30 AM - 4:30 PM (Closed on Mondays)",
+        "phoneNumber": "+86 431 8286 6611",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "changchun2",
+        "name": "Changchun World Sculpture Park",
+        "chineseName": "长春世界雕塑公园",
+        "description": "Changchun World Sculpture Park is a large outdoor museum featuring over 400 sculptures from artists around the world.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fchangchun%2Fchangchun2.png?alt=media",
+        "location": { "latitude": 43.7731, "longitude": 125.4356 },
+        "address": "9518 Renmin St, Nanguan District, Changchun",
+        "operationHours": "Daily: 8:00 AM - 5:00 PM",
+        "phoneNumber": "+86 431 8590 7755",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "changchun3",
+        "name": "Jingyuetan National Forest Park",
+        "chineseName": "净月潭国家森林公园",
+        "description": "Jingyuetan National Forest Park is a large natural park featuring a lake, forests, and recreational facilities for various outdoor activities.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fchangchun%2Fchangchun3.png?alt=media",
+        "location": { "latitude": 43.8256, "longitude": 125.4033 },
+        "address": "Jingyue District, Changchun",
+        "operationHours": "Daily: 6:00 AM - 6:00 PM",
+        "phoneNumber": "+86 431 8453 0001",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "taiyuan": {
+    "places": [
+      {
+        "id": "taiyuan1",
+        "name": "Jinci Temple",
+        "chineseName": "晋祠",
+        "description": "Jinci Temple is an ancient temple complex known for its beautiful gardens, historic architecture, and the famous Zhou Cypress, believed to be over 3,000 years old.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Ftaiyuan%2Ftaiyuan1.png?alt=media",
+        "location": { "latitude": 37.7081, "longitude": 112.4347 },
+        "address": "Jinci Town, Jinyuan District, Taiyuan",
+        "operationHours": "Daily: 8:00 AM - 6:00 PM",
+        "phoneNumber": "+86 351 8379 4211",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "taiyuan2",
+        "name": "Shanxi Museum",
+        "chineseName": "山西博物馆",
+        "description": "Shanxi Museum is a large museum showcasing the rich history and culture of Shanxi Province, featuring ancient artifacts, paintings, and calligraphy.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Ftaiyuan%2Ftaiyuan2.png?alt=media",
+        "location": { "latitude": 37.8742, "longitude": 112.5625 },
+        "address": "13 Binhe W Rd, Xiaodian District, Taiyuan",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 351 7666 9221",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "taiyuan3",
+        "name": "Tianlong Mountain",
+        "chineseName": "天龙山",
+        "description": "Tianlong Mountain is known for its ancient Buddhist grottoes, featuring intricate carvings and statues dating back to the Tang Dynasty.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Ftaiyuan%2Ftaiyuan3.png?alt=media",
+        "location": { "latitude": 37.7294, "longitude": 112.4106 },
+        "address": "Jinyuan District, Taiyuan",
+        "operationHours": "Daily: 8:00 AM - 5:30 PM",
+        "phoneNumber": "+86 351 8379 2800",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "urumqi": {
+    "places": [
+      {
+        "id": "urumqi1",
+        "name": "Heavenly Lake",
+        "chineseName": "天池",
+        "description": "Heavenly Lake is a beautiful alpine lake surrounded by snow-capped mountains, offering stunning scenery and boat rides.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Furumqi%2Furumqi1.png?alt=media",
+        "location": { "latitude": 43.8883, "longitude": 88.1147 },
+        "address": "Tianshan District, Urumqi",
+        "operationHours": "Daily: 8:00 AM - 6:00 PM",
+        "phoneNumber": "+86 991 230 5618",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "urumqi2",
+        "name": "Xinjiang Regional Museum",
+        "chineseName": "新疆博物馆",
+        "description": "The Xinjiang Regional Museum showcases the history, culture, and ethnic diversity of the Xinjiang region through artifacts and exhibits.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Furumqi%2Furumqi2.png?alt=media",
+        "location": { "latitude": 43.7935, "longitude": 87.6168 },
+        "address": "132 Xi Bei Lu, Urumqi",
+        "operationHours": "Tue-Sun: 10:00 AM - 6:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 991 453 2671",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "urumqi3",
+        "name": "Red Hill Park",
+        "chineseName": "红山公园",
+        "description": "Red Hill Park is a popular urban park featuring the iconic Red Hill, pagodas, and panoramic views of Urumqi city.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Furumqi%2Furumqi3.png?alt=media",
+        "location": { "latitude": 43.7992, "longitude": 87.6194 },
+        "address": "Shengli Road, Urumqi",
+        "operationHours": "Daily: 6:00 AM - 10:00 PM",
+        "phoneNumber": "+86 991 285 2712",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "zhongshan": {
+    "places": [
+      {
+        "id": "zhongshan1",
+        "name": "Sun Yat-sen's Residence Memorial Museum",
+        "chineseName": "孙中山故居纪念馆",
+        "description": "This museum is dedicated to Dr. Sun Yat-sen, the founding father of modern China, showcasing his life and revolutionary activities.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fzhongshan%2Fzhongshan1.png?alt=media",
+        "location": { "latitude": 22.5155, "longitude": 113.3922 },
+        "address": "7 Yandi Rd, Zhongshan",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 760 8880 5686",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zhongshan2",
+        "name": "Zimaling Park",
+        "chineseName": "中山公园",
+        "description": "Zimaling Park is a large urban park featuring beautiful landscapes, lakes, and recreational facilities.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fzhongshan%2Fzhongshan2.png?alt=media",
+        "location": { "latitude": 22.5172, "longitude": 113.3928 },
+        "address": "Zhongshan Park, East District, Zhongshan",
+        "operationHours": "Daily: 6:00 AM - 10:00 PM",
+        "phoneNumber": "+86 760 8823 2618",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zhongshan3",
+        "name": "Sunwen West Road Pedestrian Street",
+        "chineseName": "中山路步行街",
+        "description": "This bustling pedestrian street is known for its unique architecture, shopping, and local cuisine.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fzhongshan%2Fzhongshan3.png?alt=media",
+        "location": { "latitude": 22.5156, "longitude": 113.3556 },
+        "address": "Sunwen West Road, Zhongshan",
+        "operationHours": "Daily: 10:00 AM - 10:00 PM",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "hefei": {
+    "places": [
+      {
+        "id": "hefei1",
+        "name": "Lord Bao Park",
+        "chineseName": "包公祠",
+        "description": "Lord Bao Park is dedicated to Bao Zheng, a famous official known for his honesty and justice, featuring temples and beautiful gardens.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fhefei%2Fhefei1.png?alt=media",
+        "location": { "latitude": 31.8668, "longitude": 117.2808 },
+        "address": "5 Baogong Avenue, Luyang District, Hefei",
+        "operationHours": "Daily: 6:00 AM - 9:00 PM",
+        "phoneNumber": "+86 551 6220 0213",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "hefei2",
+        "name": "Xiaoyaojin Park",
+        "chineseName": "逍遥津公园",
+        "description": "Xiaoyaojin Park is a large urban park featuring lakes, gardens, and historical sites, popular for leisure activities.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fhefei%2Fhefei2.png?alt=media",
+        "location": { "latitude": 31.8611, "longitude": 117.2550 },
+        "address": "Shushan District, Hefei",
+        "operationHours": "Daily: 5:00 AM - 10:00 PM",
+        "phoneNumber": "+86 551 6222 7248",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "hefei3",
+        "name": "Anhui Museum",
+        "chineseName": "安徽博物馆",
+        "description": "Anhui Museum showcases the rich history and culture of Anhui Province through a vast collection of artifacts and exhibits.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fhefei%2Fhefei3.png?alt=media",
+        "location": { "latitude": 31.8414, "longitude": 117.2551 },
+        "address": "268 Anqing Road, Hefei",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 551 6281 9999",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "ningbo": {
+    "places": [
+      {
+        "id": "ningbo1",
+        "name": "Tianyi Pavilion",
+        "chineseName": "天一阁",
+        "description": "Tianyi Pavilion is China's oldest existing library, featuring a vast collection of ancient books and beautiful traditional architecture.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fningbo%2Fningbo1.png?alt=media",
+        "location": { "latitude": 29.8738, "longitude": 121.5440 },
+        "address": "5 Tianyi Street, Haishu District, Ningbo",
+        "operationHours": "Tue-Sun: 8:30 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 574 8729 3526",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "ningbo2",
+        "name": "Dongqian Lake",
+        "chineseName": "东钱湖",
+        "description": "Dongqian Lake is the largest freshwater lake in Zhejiang, offering beautiful scenery, water activities, and surrounding attractions.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fningbo%2Fningbo2.png?alt=media",
+        "location": { "latitude": 29.6894, "longitude": 121.6103 },
+        "address": "Yinzhou District, Ningbo",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "ningbo3",
+        "name": "Ningbo Museum",
+        "chineseName": "宁波博物馆",
+        "description": "Ningbo Museum, designed by Wang Shu, showcases the history and culture of Ningbo through its unique architecture and exhibits.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fningbo%2Fningbo3.png?alt=media",
+        "location": { "latitude": 29.8081, "longitude": 121.5537 },
+        "address": "1000 Shounan Middle Road, Yinzhou District, Ningbo",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 574 8286 6666",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "fuzhou": {
+    "places": [
+      {
+        "id": "fuzhou1",
+        "name": "Three Lanes and Seven Alleys",
+        "chineseName": "三坊七巷",
+        "description": "Three Lanes and Seven Alleys is a historic district featuring well-preserved Ming and Qing dynasty architecture and traditional Fuzhou culture.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Ffuzhou%2Ffuzhou1.png?alt=media",
+        "location": { "latitude": 26.0922, "longitude": 119.3017 },
+        "address": "Nanhou Street, Gulou District, Fuzhou",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "fuzhou2",
+        "name": "West Lake Park",
+        "chineseName": "西湖公园",
+        "description": "West Lake Park is a scenic park featuring a lake, gardens, and historic sites, popular for leisure activities and cultural events.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Ffuzhou%2Ffuzhou2.png?alt=media",
+        "location": { "latitude": 26.0894, "longitude": 119.2956 },
+        "address": "West Lake Road, Gulou District, Fuzhou",
+        "operationHours": "Daily: 6:00 AM - 10:00 PM",
+        "phoneNumber": "+86 591 8334 4234",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "fuzhou3",
+        "name": "Fuzhou National Forest Park",
+        "chineseName": "福州国家森林公园",
+        "description": "Fuzhou National Forest Park is a large nature reserve offering hiking trails, scenic views, and diverse flora and fauna.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Ffuzhou%2Ffuzhou3.png?alt=media",
+        "location": { "latitude": 26.1453, "longitude": 119.3650 },
+        "address": "Jinshan, Cangshan District, Fuzhou",
+        "operationHours": "Daily: 7:00 AM - 6:00 PM",
+        "phoneNumber": "+86 591 8762 7078",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "nanchang": {
+    "places": [
+      {
+        "id": "nanchang1",
+        "name": "Tengwang Pavilion",
+        "chineseName": "滕王阁",
+        "description": "Tengwang Pavilion is one of the Four Great Towers of China, known for its impressive architecture and cultural significance.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fnanchang%2Fnanchang1.png?alt=media",
+        "location": { "latitude": 28.6828, "longitude": 115.8926 },
+        "address": "30 Zhongshan Road, Donghu District, Nanchang",
+        "operationHours": "Daily: 8:00 AM - 5:30 PM",
+        "phoneNumber": "+86 791 8663 9907",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "nanchang2",
+        "name": "Bayi Square",
+        "chineseName": "八一广场",
+        "description": "Bayi Square is the largest city square in China, featuring the August 1 Nanchang Uprising Monument and various cultural facilities.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fnanchang%2Fnanchang2.png?alt=media",
+        "location": { "latitude": 28.6828, "longitude": 115.8584 },
+        "address": "Bayi Avenue, Donghu District, Nanchang",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "nanchang3",
+        "name": "Jiangxi Museum",
+        "chineseName": "江西博物馆",
+        "description": "Jiangxi Museum showcases the rich history and culture of Jiangxi Province through a vast collection of artifacts and exhibits.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fnanchang%2Fnanchang3.png?alt=media",
+        "location": { "latitude": 28.6561, "longitude": 115.9092 },
+        "address": "2 Sanjing Road, Qingshanhu District, Nanchang",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 791 8688 5627",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "lanzhou": {
+    "places": [
+      {
+        "id": "lanzhou1",
+        "name": "Zhongshan Bridge",
+        "chineseName": "中山桥",
+        "description": "Zhongshan Bridge is the first bridge over the Yellow River and a symbol of Lanzhou, offering scenic views and historical significance.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Flanzhou%2Flanzhou1.png?alt=media",
+        "location": { "latitude": 36.0461, "longitude": 103.8233 },
+        "address": "Chengguan District, Lanzhou",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "lanzhou2",
+        "name": "White Pagoda Mountain Park",
+        "chineseName": "白塔山公园",
+        "description": "White Pagoda Mountain Park features a prominent white pagoda, offering panoramic views of Lanzhou and the Yellow River.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Flanzhou%2Flanzhou2.png?alt=media",
+        "location": { "latitude": 36.0672, "longitude": 103.8397 },
+        "address": "Chengguan District, Lanzhou",
+        "operationHours": "Daily: 6:00 AM - 8:00 PM",
+        "phoneNumber": "+86 931 841 2482",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "lanzhou3",
+        "name": "Gansu Provincial Museum",
+        "chineseName": "甘肃博物馆",
+        "description": "Gansu Provincial Museum showcases the rich history and culture of Gansu Province, including the famous 'Flying Horse of Gansu' bronze sculpture.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Flanzhou%2Flanzhou3.png?alt=media",
+        "location": { "latitude": 36.0614, "longitude": 103.8342 },
+        "address": "3 Xijin East Road, Chengguan District, Lanzhou",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 931 231 4681",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "nantong": {
+    "places": [
+      {
+        "id": "nantong1",
+        "name": "Langshan",
+        "chineseName": "狼山",
+        "description": "Langshan is a scenic mountain area featuring Buddhist temples, hiking trails, and panoramic views of Nantong and the Yangtze River.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fnantong%2Fnantong1.png?alt=media",
+        "location": { "latitude": 32.0281, "longitude": 120.8561 },
+        "address": "Langshan Scenic Area, Chongchuan District, Nantong",
+        "operationHours": "Daily: 7:30 AM - 5:30 PM",
+        "phoneNumber": "+86 513 8530 2055",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "nantong2",
+        "name": "Nantong Museum",
+        "chineseName": "南通博物馆",
+        "description": "Nantong Museum, founded in 1905, is one of the oldest museums in China, showcasing local history, culture, and art.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fnantong%2Fnantong2.png?alt=media",
+        "location": { "latitude": 32.0308, "longitude": 120.8644 },
+        "address": "19 Haoxi Road, Chongchuan District, Nantong",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 513 8505 2928",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "nantong3",
+        "name": "Haohe Scenic Area",
+        "chineseName": "浩河风景区",
+        "description": "Haohe Scenic Area is a historic district along the Haohe River, featuring traditional architecture, bridges, and cultural attractions.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fnantong%2Fnantong3.png?alt=media",
+        "location": { "latitude": 32.0153, "longitude": 120.8636 },
+        "address": "Chongchuan District, Nantong",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "xuzhou": {
+    "places": [
+      {
+        "id": "xuzhou1",
+        "name": "Han Dynasty Terracotta Warriors",
+        "chineseName": "汉代兵马俑",
+        "description": "This site features terracotta warriors from the Han Dynasty, offering a unique glimpse into ancient Chinese history and art.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fxuzhou%2Fxuzhou1.png?alt=media",
+        "location": { "latitude": 34.2714, "longitude": 117.1836 },
+        "address": "Tongshan District, Xuzhou",
+        "operationHours": "Daily: 8:00 AM - 5:00 PM",
+        "phoneNumber": "+86 516 8377 7027",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "xuzhou2",
+        "name": "Yunlong Mountain Scenic Area",
+        "chineseName": "云龙山风景区",
+        "description": "Yunlong Mountain offers beautiful landscapes, hiking trails, and panoramic views of Xuzhou city.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fxuzhou%2Fxuzhou2.png?alt=media",
+        "location": { "latitude": 34.2539, "longitude": 117.2183 },
+        "address": "Yunlong District, Xuzhou",
+        "operationHours": "Daily: 7:00 AM - 6:00 PM",
+        "phoneNumber": "+86 516 8318 1686",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "xuzhou3",
+        "name": "Xuzhou Museum",
+        "chineseName": "徐州博物馆",
+        "description": "Xuzhou Museum showcases the rich history and culture of Xuzhou, featuring artifacts from various dynasties.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fxuzhou%2Fxuzhou3.png?alt=media",
+        "location": { "latitude": 34.2669, "longitude": 117.1842 },
+        "address": "3 Heping Road, Gulou District, Xuzhou",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 516 8580 2867",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "wenzhou": {
+    "places": [
+      {
+        "id": "wenzhou1",
+        "name": "Yandang Mountain",
+        "chineseName": "雁荡山",
+        "description": "Yandang Mountain is a UNESCO Global Geopark known for its stunning rock formations, waterfalls, and scenic hiking trails.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fwenzhou%2Fwenzhou1.png?alt=media",
+        "location": { "latitude": 28.3656, "longitude": 121.0669 },
+        "address": "Yandang Mountain, Yueqing, Wenzhou",
+        "operationHours": "Daily: 7:30 AM - 5:00 PM",
+        "phoneNumber": "+86 577 6288 8033",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "wenzhou2",
+        "name": "Jiangxin Island",
+        "chineseName": "江心屿",
+        "description": "Jiangxin Island is a scenic spot in the middle of the Oujiang River, featuring historic buildings and beautiful gardens.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fwenzhou%2Fwenzhou2.png?alt=media",
+        "location": { "latitude": 28.0172, "longitude": 120.6547 },
+        "address": "Jiangxin Island, Lucheng District, Wenzhou",
+        "operationHours": "Daily: 8:00 AM - 5:30 PM",
+        "phoneNumber": "+86 577 8820 9888",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "wenzhou3",
+        "name": "Nanxi River",
+        "chineseName": "楠溪江",
+        "description": "Nanxi River is known for its clear waters, unique rock formations, and traditional fishing villages along its banks.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fwenzhou%2Fwenzhou3.png?alt=media",
+        "location": { "latitude": 27.8667, "longitude": 120.4667 },
+        "address": "Yongjia County, Wenzhou",
+        "operationHours": "Daily: 8:00 AM - 5:00 PM",
+        "phoneNumber": "+86 577 6700 1888",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "linyi": {
+    "places": [
+      {
+        "id": "linyi1",
+        "name": "Mengshan Giant Buddha",
+        "chineseName": "蒙山巨佛",
+        "description": "The Mengshan Giant Buddha is one of the largest cliff-carved stone Buddhas in China, surrounded by beautiful mountain scenery.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Flinyi%2Flinyi1.png?alt=media",
+        "location": { "latitude": 35.5167, "longitude": 117.9667 },
+        "address": "Mengshan Scenic Area, Yinan County, Linyi",
+        "operationHours": "Daily: 8:00 AM - 5:00 PM",
+        "phoneNumber": "+86 539 827 1058",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "linyi2",
+        "name": "Linyi Underground Great Wall",
+        "chineseName": "临沂地下长城",
+        "description": "The Linyi Underground Great Wall is a vast network of tunnels used for defense during wartime, offering a unique historical experience.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Flinyi%2Flinyi2.png?alt=media",
+        "location": { "latitude": 35.0653, "longitude": 118.3425 },
+        "address": "Hedong District, Linyi",
+        "operationHours": "Daily: 8:30 AM - 5:00 PM",
+        "phoneNumber": "+86 539 821 2009",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "linyi3",
+        "name": "Yimeng Revolutionary Memorial Hall",
+        "chineseName": "沂蒙革命纪念馆",
+        "description": "This memorial hall commemorates the revolutionary history of the Yimeng area during the Chinese Revolution.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Flinyi%2Flinyi3.png?alt=media",
+        "location": { "latitude": 35.0514, "longitude": 118.3547 },
+        "address": "209 Yizhou Road, Lanshan District, Linyi",
+        "operationHours": "Tue-Sun: 9:00 AM - 4:30 PM (Closed on Mondays)",
+        "phoneNumber": "+86 539 821 2170",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "wuxi": {
+    "places": [
+      {
+        "id": "wuxi1",
+        "name": "Lingshan Grand Buddha",
+        "chineseName": "灵山大佛",
+        "description": "The Lingshan Grand Buddha is one of the largest Buddha statues in China, surrounded by beautiful gardens and cultural exhibits.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fwuxi%2Fwuxi1.png?alt=media",
+        "location": { "latitude": 31.4067, "longitude": 119.9811 },
+        "address": "Lingshan Avenue, Binhu District, Wuxi",
+        "operationHours": "Daily: 7:30 AM - 5:00 PM",
+        "phoneNumber": "+86 510 8788 1111",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "wuxi2",
+        "name": "Taihu Lake",
+        "chineseName": "太湖",
+        "description": "Taihu Lake is one of the largest freshwater lakes in China, offering scenic boat tours and beautiful lakeside parks.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fwuxi%2Fwuxi2.png?alt=media",
+        "location": { "latitude": 31.2500, "longitude": 120.2167 },
+        "address": "Binhu District, Wuxi",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "wuxi3",
+        "name": "Nanchan Temple",
+        "chineseName": "南禅寺",
+        "description": "Nanchan Temple is one of the oldest wooden structures in southern China, known for its intricate architecture and historical significance.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fwuxi%2Fwuxi3.png?alt=media",
+        "location": { "latitude": 31.4919, "longitude": 120.2825 },
+        "address": "1 Nanchan Temple Street, Binhu District, Wuxi",
+        "operationHours": "Daily: 8:00 AM - 5:00 PM",
+        "phoneNumber": "+86 510 8511 5188",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "tangshan": {
+    "places": [
+      {
+        "id": "tangshan1",
+        "name": "Tangshan Earthquake Memorial Park",
+        "chineseName": "唐山地震纪念公园",
+        "description": "This memorial park commemorates the devastating 1976 Tangshan earthquake and serves as a reminder of the city's resilience.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Ftangshan%2Ftangshan1.png?alt=media",
+        "location": { "latitude": 39.6308, "longitude": 118.1802 },
+        "address": "Lubei District, Tangshan",
+        "operationHours": "Daily: 9:00 AM - 5:00 PM",
+        "phoneNumber": "+86 315 2833 333",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "tangshan2",
+        "name": "Kailuan National Mine Park",
+        "chineseName": "开滦国家矿山公园",
+        "description": "This park offers a unique look into China's industrial heritage, featuring a century-old coal mine and mining equipment.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Ftangshan%2Ftangshan2.png?alt=media",
+        "location": { "latitude": 39.6247, "longitude": 118.2108 },
+        "address": "Lubei District, Tangshan",
+        "operationHours": "Daily: 8:30 AM - 4:30 PM",
+        "phoneNumber": "+86 315 3010 999",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "tangshan3",
+        "name": "Tangshan South Lake Ecological Park",
+        "chineseName": "唐山南湖生态公园",
+        "description": "This large urban park features a beautiful lake, gardens, and recreational facilities, perfect for relaxation and outdoor activities.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Ftangshan%2Ftangshan3.png?alt=media",
+        "location": { "latitude": 39.6167, "longitude": 118.1667 },
+        "address": "Lubei District, Tangshan",
+        "operationHours": "Daily: 6:00 AM - 10:00 PM",
+        "phoneNumber": "+86 315 2582 333",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "hohhot": {
+    "places": [
+      {
+        "id": "hohhot1",
+        "name": "Dazhao Temple",
+        "chineseName": "大召寺",
+        "description": "Dazhao Temple is the oldest and largest Tibetan Buddhist monastery in Inner Mongolia, known for its silver Buddha statue.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fhohhot%2Fhohhot1.png?alt=media",
+        "location": { "latitude": 40.8136, "longitude": 111.6453 },
+        "address": "51 Dazhao Street, Hohhot",
+        "operationHours": "Daily: 8:00 AM - 5:00 PM",
+        "phoneNumber": "+86 471 698 4897",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "hohhot2",
+        "name": "Inner Mongolia Museum",
+        "chineseName": "内蒙古博物馆",
+        "description": "This museum showcases the history, culture, and natural heritage of Inner Mongolia through extensive exhibits and artifacts.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fhohhot%2Fhohhot2.png?alt=media",
+        "location": { "latitude": 40.8283, "longitude": 111.6753 },
+        "address": "27 Xinhua East Street, Xincheng District, Hohhot",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 471 496 8870",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "hohhot3",
+        "name": "Xilamuren Grassland",
+        "chineseName": "希拉穆仁草原",
+        "description": "Xilamuren Grassland offers visitors a chance to experience traditional Mongolian culture and enjoy the vast grassland landscape.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fhohhot%2Fhohhot3.png?alt=media",
+        "location": { "latitude": 41.3333, "longitude": 111.7000 },
+        "address": "Xilamuren Grassland, Baotou",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": "+86 472 691 5800",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "haikou": {
+    "places": [
+      {
+        "id": "haikou1",
+        "name": "Haikou Volcanic Cluster Global Geopark",
+        "chineseName": "海口火山群世界地质公园",
+        "description": "This geopark features a unique volcanic landscape with craters, lava tunnels, and tropical vegetation.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fhaikou%2Fhaikou1.png?alt=media",
+        "location": { "latitude": 19.9333, "longitude": 110.1667 },
+        "address": "Shishan Town, Xiuying District, Haikou",
+        "operationHours": "Daily: 8:00 AM - 6:00 PM",
+        "phoneNumber": "+86 898 6858 3666",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "haikou2",
+        "name": "Haikou Millennium Old Town",
+        "chineseName": "海口老街",
+        "description": "This historic district showcases traditional architecture and local culture, with many shops and restaurants.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fhaikou%2Fhaikou2.png?alt=media",
+        "location": { "latitude": 20.0442, "longitude": 110.3397 },
+        "address": "Zhongshan Road, Meilan District, Haikou",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "haikou3",
+        "name": "Holiday Beach",
+        "chineseName": "假日海滩",
+        "description": "Holiday Beach is a popular coastal area offering water activities, beach sports, and beautiful sunset views.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fhaikou%2Fhaikou3.png?alt=media",
+        "location": { "latitude": 20.0397, "longitude": 110.2922 },
+        "address": "Binhai Avenue, Xiuying District, Haikou",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": "+86 898 6853 3088",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "shaoxing": {
+    "places": [
+      {
+        "id": "shaoxing1",
+        "name": "Lu Xun Native Place",
+        "chineseName": "鲁迅故里",
+        "description": "This memorial complex is dedicated to Lu Xun, one of China's most famous writers, featuring his former residence and related exhibits.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fshaoxing%2Fshaoxing1.png?alt=media",
+        "location": { "latitude": 30.0047, "longitude": 120.5828 },
+        "address": "208 Lu Xun Middle Road, Yuecheng District, Shaoxing",
+        "operationHours": "Daily: 7:30 AM - 5:00 PM",
+        "phoneNumber": "+86 575 8511 2833",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "shaoxing2",
+        "name": "East Lake",
+        "chineseName": "东湖",
+        "description": "East Lake is a scenic area known for its beautiful water landscape, traditional architecture, and cultural significance.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fshaoxing%2Fshaoxing2.png?alt=media",
+        "location": { "latitude": 29.9969, "longitude": 120.5919 },
+        "address": "Yuecheng District, Shaoxing",
+        "operationHours": "Daily: 6:00 AM - 6:00 PM",
+        "phoneNumber": "+86 575 8807 3022",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "shaoxing3",
+        "name": "Shaoxing Ancient Town",
+        "chineseName": "绍兴古城",
+        "description": "This well-preserved water town features traditional architecture, stone bridges, and canals, offering a glimpse into ancient Chinese life.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fshaoxing%2Fshaoxing3.png?alt=media",
+        "location": { "latitude": 30.0044, "longitude": 120.5778 },
+        "address": "Yuecheng District, Shaoxing",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "yantai": {
+    "places": [
+      {
+        "id": "yantai1",
+        "name": "Penglai Pavilion",
+        "chineseName": "蓬莱阁",
+        "description": "Penglai Pavilion is a famous Taoist site known for its beautiful architecture and legends of immortals and mirages.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fyantai%2Fyantai1.png?alt=media",
+        "location": { "latitude": 37.8233, "longitude": 120.7583 },
+        "address": "Penglai District, Yantai",
+        "operationHours": "Daily: 7:30 AM - 6:00 PM",
+        "phoneNumber": "+86 535 589 5531",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "yantai2",
+        "name": "Yantai Mountain",
+        "chineseName": "烟台山",
+        "description": "Yantai Mountain offers panoramic views of the city and sea, featuring historic buildings and a lighthouse.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fyantai%2Fyantai2.png?alt=media",
+        "location": { "latitude": 37.5506, "longitude": 121.3975 },
+        "address": "Zhifu District, Yantai",
+        "operationHours": "Daily: 8:00 AM - 5:30 PM",
+        "phoneNumber": "+86 535 663 1235",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "yantai3",
+        "name": "Changyu Wine Culture Museum",
+        "chineseName": "张裕酒文化博物馆",
+        "description": "This museum showcases the history of China's oldest and largest winery, offering wine tasting experiences.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fyantai%2Fyantai3.png?alt=media",
+        "location": { "latitude": 37.5339, "longitude": 121.3828 },
+        "address": "56 Dama Road, Zhifu District, Yantai",
+        "operationHours": "Daily: 8:30 AM - 5:00 PM",
+        "phoneNumber": "+86 535 663 1080",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "luoyang": {
+    "places": [
+      {
+        "id": "luoyang1",
+        "name": "Longmen Grottoes",
+        "chineseName": "龙门石窟",
+        "description": "The Longmen Grottoes are a UNESCO World Heritage site featuring thousands of Buddhist rock carvings dating back to the 5th century.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fluoyang%2Fluoyang1.png?alt=media",
+        "location": { "latitude": 34.5544, "longitude": 112.4722 },
+        "address": "Luolong District, Luoyang",
+        "operationHours": "Daily: 8:00 AM - 5:30 PM",
+        "phoneNumber": "+86 379 6598 1217",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "luoyang2",
+        "name": "White Horse Temple",
+        "chineseName": "白马寺",
+        "description": "White Horse Temple is considered the first Buddhist temple in China, with a history dating back to the 1st century AD.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fluoyang%2Fluoyang2.png?alt=media",
+        "location": { "latitude": 34.7203, "longitude": 112.9442 },
+        "address": "Baimasi Road, Luolong District, Luoyang",
+        "operationHours": "Daily: 7:30 AM - 5:30 PM",
+        "phoneNumber": "+86 379 6322 6118",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "luoyang3",
+        "name": "Luoyang Ancient Tomb Museum",
+        "chineseName": "洛阳古墓博物馆",
+        "description": "This museum showcases ancient tombs and burial artifacts from various dynasties, offering insights into Chinese burial customs.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fluoyang%2Fluoyang3.png?alt=media",
+        "location": { "latitude": 34.6183, "longitude": 112.4547 },
+        "address": "35 Mingshu South Road, Xigong District, Luoyang",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 379 6399 6114",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "zhengzhou": {
+    "places": [
+      {
+        "id": "zhengzhou1",
+        "name": "Shaolin Temple",
+        "chineseName": "少林寺",
+        "description": "Shaolin Temple is renowned as the birthplace of Zen Buddhism and Chinese martial arts, featuring ancient architecture and kung fu performances.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fzhengzhou%2Fzhengzhou1.png?alt=media",
+        "location": { "latitude": 34.5062, "longitude": 112.9347 },
+        "address": "Dengfeng, Zhengzhou, Henan Province",
+        "operationHours": "Daily: 8:00 AM - 5:00 PM",
+        "phoneNumber": "+86 371 6258 5123",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zhengzhou2",
+        "name": "Henan Museum",
+        "chineseName": "河南博物馆",
+        "description": "Henan Museum is one of China's oldest and largest museums, showcasing the rich history and culture of Henan Province through numerous artifacts.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fzhengzhou%2Fzhengzhou2.png?alt=media",
+        "location": { "latitude": 34.8072, "longitude": 113.6965 },
+        "address": "8 Nongye Road, Jinshui District, Zhengzhou",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 371 6397 8188",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "zhengzhou3",
+        "name": "Yellow River Scenic Area",
+        "chineseName": "黄河风景区",
+        "description": "The Yellow River Scenic Area offers stunning views of China's Mother River, featuring the Camel Mountain and the Five Dragons Peak.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fzhengzhou%2Fzhengzhou3.png?alt=media",
+        "location": { "latitude": 34.9183, "longitude": 113.6509 },
+        "address": "Huiji District, Zhengzhou",
+        "operationHours": "Daily: 7:30 AM - 6:30 PM",
+        "phoneNumber": "+86 371 6563 7088",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "changsha": {
+    "places": [
+      {
+        "id": "changsha1",
+        "name": "Orange Island",
+        "chineseName": "橘子洲",
+        "description": "Orange Island is a scenic sandbar in the Xiangjiang River, known for its orange groves and a giant statue of young Mao Zedong.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fchangsha%2Fchangsha1.png?alt=media",
+        "location": { "latitude": 28.1867, "longitude": 112.9719 },
+        "address": "Yuelu District, Changsha",
+        "operationHours": "Daily: 8:00 AM - 10:00 PM",
+        "phoneNumber": "+86 731 8464 1948",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "changsha2",
+        "name": "Yuelu Mountain",
+        "chineseName": "岳麓山",
+        "description": "Yuelu Mountain is a famous scenic area offering beautiful views, historic sites, and the ancient Yuelu Academy.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fchangsha%2Fchangsha2.png?alt=media",
+        "location": { "latitude": 28.1808, "longitude": 112.9456 },
+        "address": "Yuelu District, Changsha",
+        "operationHours": "Daily: 7:30 AM - 6:00 PM",
+        "phoneNumber": "+86 731 8882 3001",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "changsha3",
+        "name": "Hunan Provincial Museum",
+        "chineseName": "湖南省博物馆",
+        "description": "Hunan Provincial Museum houses important artifacts including the well-preserved Mawangdui Han tombs and their contents.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fchangsha%2Fchangsha3.png?alt=media",
+        "location": { "latitude": 28.1969, "longitude": 112.9871 },
+        "address": "50 Dongfeng Road, Kaifu District, Changsha",
+        "operationHours": "Tue-Sun: 9:00 AM - 5:00 PM (Closed on Mondays)",
+        "phoneNumber": "+86 731 8491 2804",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "dali": {
+    "places": [
+      {
+        "id": "dali1",
+        "name": "Erhai Lake",
+        "chineseName": "洱海",
+        "description": "Erhai Lake is a beautiful alpine lake offering scenic views, boat rides, and surrounding traditional villages.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fdali%2Fdali1.png?alt=media",
+        "location": { "latitude": 25.8292, "longitude": 100.1900 },
+        "address": "Dali, Yunnan",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "dali2",
+        "name": "Three Pagodas",
+        "chineseName": "三塔",
+        "description": "The Three Pagodas are an iconic symbol of Dali, dating back to the 9th century and offering beautiful architectural designs.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fdali%2Fdali2.png?alt=media",
+        "location": { "latitude": 25.7062, "longitude": 100.1022 },
+        "address": "Dali Ancient City, Dali",
+        "operationHours": "Daily: 8:00 AM - 6:30 PM",
+        "phoneNumber": "+86 872 267 7005",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "dali3",
+        "name": "Dali Ancient City",
+        "chineseName": "大理古城",
+        "description": "Dali Ancient City is a well-preserved town featuring traditional Bai architecture, shops, and cultural experiences.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fdali%2Fdali3.png?alt=media",
+        "location": { "latitude": 25.6915, "longitude": 100.1608 },
+        "address": "Dali, Yunnan",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "guiyang": {
+    "places": [
+      {
+        "id": "guiyang1",
+        "name": "Qianling Park",
+        "chineseName": "黔灵公园",
+        "description": "Qianling Park is a large urban park featuring beautiful landscapes, temples, and a population of wild macaques.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fguiyang%2Fguiyang1.png?alt=media",
+        "location": { "latitude": 26.6008, "longitude": 106.6922 },
+        "address": "Yunyan District, Guiyang",
+        "operationHours": "Daily: 6:00 AM - 9:00 PM",
+        "phoneNumber": "+86 851 8598 5981",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "guiyang2",
+        "name": "Jiaxiu Tower",
+        "chineseName": "甲秀楼",
+        "description": "Jiaxiu Tower is a historic landmark overlooking the Nanming River, known for its traditional architecture and cultural significance.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fguiyang%2Fguiyang2.png?alt=media",
+        "location": { "latitude": 26.5728, "longitude": 106.7119 },
+        "address": "Nanming District, Guiyang",
+        "operationHours": "Daily: 8:30 AM - 5:30 PM",
+        "phoneNumber": "+86 851 8555 1111",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "guiyang3",
+        "name": "Guiyang Confucius Temple",
+        "chineseName": "贵阳文庙",
+        "description": "This well-preserved Confucian temple complex showcases traditional Chinese architecture and Confucian culture.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fguiyang%2Fguiyang3.png?alt=media",
+        "location": { "latitude": 26.5789, "longitude": 106.7153 },
+        "address": "Yunyan District, Guiyang",
+        "operationHours": "Daily: 9:00 AM - 5:00 PM",
+        "phoneNumber": "+86 851 8516 5552",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "harbin": {
+    "places": [
+      {
+        "id": "harbin1",
+        "name": "Saint Sophia Cathedral",
+        "chineseName": "圣索菲亚教堂",
+        "description": "Saint Sophia Cathedral is a former Russian Orthodox church turned museum, known for its beautiful Byzantine architecture.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fharbin%2Fharbin1.png?alt=media",
+        "location": { "latitude": 45.7767, "longitude": 126.6319 },
+        "address": "88 Toulong Street, Daoli District, Harbin",
+        "operationHours": "Daily: 8:30 AM - 5:00 PM",
+        "phoneNumber": "+86 451 8468 4158",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "harbin2",
+        "name": "Harbin Ice and Snow World",
+        "chineseName": "哈尔滨冰雪大世界",
+        "description": "This famous winter attraction features massive ice sculptures, ice slides, and other winter activities.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fharbin%2Fharbin2.png?alt=media",
+        "location": { "latitude": 45.7897, "longitude": 126.6092 },
+        "address": "Songbei District, Harbin",
+        "operationHours": "Seasonal: 11:00 AM - 9:30 PM (winter months)",
+        "phoneNumber": "+86 451 8481 1111",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "harbin3",
+        "name": "Siberian Tiger Park",
+        "chineseName": "东北虎林园",
+        "description": "Siberian Tiger Park is a large nature reserve dedicated to the conservation of Siberian tigers and other big cats.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fharbin%2Fharbin3.png?alt=media",
+        "location": { "latitude": 45.8719, "longitude": 126.5811 },
+        "address": "Songbei District, Harbin",
+        "operationHours": "Daily: 8:00 AM - 5:00 PM",
+        "phoneNumber": "+86 451 8808 2333",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "kunming": {
+    "places": [
+      {
+        "id": "kunming1",
+        "name": "Stone Forest",
+        "chineseName": "石林",
+        "description": "The Stone Forest is a notable set of limestone formations, creating a stunning landscape of rock pillars and intricate shapes.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fkunming%2Fkunming1.png?alt=media",
+        "location": { "latitude": 24.8007, "longitude": 103.3243 },
+        "address": "Shilin Yi Autonomous County, Kunming",
+        "operationHours": "Daily: 8:00 AM - 6:00 PM",
+        "phoneNumber": "+86 871 6711 8222",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "kunming2",
+        "name": "Dianchi Lake",
+        "chineseName": "滇池",
+        "description": "Dianchi Lake is the largest freshwater lake in Yunnan, offering scenic views, boat rides, and surrounding attractions.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fkunming%2Fkunming2.png?alt=media",
+        "location": { "latitude": 24.9672, "longitude": 102.6671 },
+        "address": "Xishan District, Kunming",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "kunming3",
+        "name": "Yunnan Ethnic Village",
+        "chineseName": "云南民族村",
+        "description": "Yunnan Ethnic Village is a theme park showcasing the cultures and traditions of Yunnan's diverse ethnic minorities.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fkunming%2Fkunming3.png?alt=media",
+        "location": { "latitude": 24.9577, "longitude": 102.6397 },
+        "address": "1310 Dianchi Road, Xishan District, Kunming",
+        "operationHours": "Daily: 9:00 AM - 6:30 PM",
+        "phoneNumber": "+86 871 6418 9191",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "lijiang": {
+    "places": [
+      {
+        "id": "lijiang1",
+        "name": "Old Town of Lijiang",
+        "chineseName": "丽江古城",
+        "description": "The Old Town of Lijiang is a UNESCO World Heritage site known for its traditional architecture, canals, and Naxi culture.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Flijiang%2Flijiang1.png?alt=media",
+        "location": { "latitude": 26.8721, "longitude": 100.2346 },
+        "address": "Gucheng District, Lijiang",
+        "operationHours": "Open 24 hours",
+        "phoneNumber": null,
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "lijiang2",
+        "name": "Jade Dragon Snow Mountain",
+        "chineseName": "玉龙雪山",
+        "description": "Jade Dragon Snow Mountain is a picturesque mountain range offering stunning views, hiking trails, and a cable car to the summit.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Flijiang%2Flijiang2.png?alt=media",
+        "location": { "latitude": 27.1014, "longitude": 100.1775 },
+        "address": "Yulong Naxi Autonomous County, Lijiang",
+        "operationHours": "Daily: 7:00 AM - 6:30 PM",
+        "phoneNumber": "+86 888 515 2666",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "lijiang3",
+        "name": "Black Dragon Pool",
+        "chineseName": "黑龙潭",
+        "description": "Black Dragon Pool is a scenic park featuring a lake, traditional bridges, and stunning views of Jade Dragon Snow Mountain.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Flijiang%2Flijiang3.png?alt=media",
+        "location": { "latitude": 26.8901, "longitude": 100.2330 },
+        "address": "1 Longquan Road, Gucheng District, Lijiang",
+        "operationHours": "Daily: 7:00 AM - 7:00 PM",
+        "phoneNumber": "+86 888 512 6023",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  },
+  "nanjing": {
+    "places": [
+      {
+        "id": "nanjing1",
+        "name": "Purple Mountain",
+        "chineseName": "紫金山",
+        "description": "Purple Mountain is a scenic area featuring numerous historical and cultural sites, including the Sun Yat-sen Mausoleum.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fnanjing%2Fnanjing1.png?alt=media",
+        "location": { "latitude": 32.0636, "longitude": 118.8490 },
+        "address": "Xuanwu District, Nanjing",
+        "operationHours": "Daily: 6:30 AM - 6:30 PM",
+        "phoneNumber": "+86 25 8443 7786",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "nanjing2",
+        "name": "Nanjing Confucius Temple",
+        "chineseName": "南京夫子庙",
+        "description": "This historic complex features a Confucian temple, imperial examination hall, and a bustling shopping area along the Qinhuai River.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fnanjing%2Fnanjing2.png?alt=media",
+        "location": { "latitude": 32.0286, "longitude": 118.7897 },
+        "address": "1 Gongyuan Street, Qinhuai District, Nanjing",
+        "operationHours": "Daily: 8:30 AM - 10:00 PM",
+        "phoneNumber": "+86 25 5256 0818",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "nanjing3",
+        "name": "Nanjing City Wall",
+        "chineseName": "南京城墙",
+        "description": "The ancient city wall of Nanjing is one of the longest and best-preserved city walls in China, offering a glimpse into the city's history.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fnanjing%2Fnanjing3.png?alt=media",
+        "location": { "latitude": 32.0464, "longitude": 118.7489 },
+        "address": "Jiming Temple, Xuanwu District, Nanjing",
+        "operationHours": "Daily: 8:00 AM - 6:00 PM",
+        "phoneNumber": "+86 25 8445 1777",
+        "likes": 0,
+        "comments": []
+      }
+    ]
+  }
+}

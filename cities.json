@@ -1,0 +1,482 @@
+[
+  {
+    "id": "shanghai",
+    "name": "Shanghai",
+    "chineseName": "上海",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "The Bund, Yu Garden, Shanghai Tower",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fshanghai.png?alt=media",
+    "coordinates": { "latitude": 31.2304, "longitude": 121.4737 }
+  },
+  {
+    "id": "beijing",
+    "name": "Beijing",
+    "chineseName": "北京",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Great Wall, Forbidden City, Temple of Heaven",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fbeijing.png?alt=media",
+    "coordinates": { "latitude": 39.9042, "longitude": 116.4074 }
+  },
+  {
+    "id": "shenzhen",
+    "name": "Shenzhen",
+    "chineseName": "深圳",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Window of the World, Splendid China Folk Village",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fshenzhen.png?alt=media",
+    "coordinates": { "latitude": 22.5431, "longitude": 114.0579 }
+  },
+  {
+    "id": "guangzhou",
+    "name": "Guangzhou",
+    "chineseName": "广州",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Canton Tower, Chen Clan Ancestral Hall",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fguangzhou.png?alt=media",
+    "coordinates": { "latitude": 23.1291, "longitude": 113.2644 }
+  },
+  {
+    "id": "chengdu",
+    "name": "Chengdu",
+    "chineseName": "成都",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Giant Panda Breeding Research Base, Jinli Ancient Street",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fchengdu.png?alt=media",
+    "coordinates": { "latitude": 30.5728, "longitude": 104.0668 }
+  },
+  {
+    "id": "tianjin",
+    "name": "Tianjin",
+    "chineseName": "天津",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Tianjin Eye, Porcelain House",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Ftianjin.png?alt=media",
+    "coordinates": { "latitude": 39.3434, "longitude": 117.3616 }
+  },
+  {
+    "id": "wuhan",
+    "name": "Wuhan",
+    "chineseName": "武汉",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Yellow Crane Tower, East Lake",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fwuhan.png?alt=media",
+    "coordinates": { "latitude": 30.5928, "longitude": 114.3055 }
+  },
+  {
+    "id": "dongguan",
+    "name": "Dongguan",
+    "chineseName": "东莞",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Opium War Museum, Keyuan Garden",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fdongguan.png?alt=media",
+    "coordinates": { "latitude": 23.0208, "longitude": 113.7518 }
+  },
+  {
+    "id": "chongqing",
+    "name": "Chongqing",
+    "chineseName": "重庆",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Three Gorges Museum, Ciqikou Old Town",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fchongqing.png?alt=media",
+    "coordinates": { "latitude": 29.4316, "longitude": 106.9123 }
+  },
+  {
+    "id": "xian",
+    "name": "Xian",
+    "chineseName": "西安",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Terracotta Army, Ancient City Wall",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fxian.png?alt=media",
+    "coordinates": { "latitude": 34.3416, "longitude": 108.9398 }
+  },
+  {
+    "id": "hangzhou",
+    "name": "Hangzhou",
+    "chineseName": "杭州",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "West Lake, Lingyin Temple",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fhangzhou.png?alt=media",
+    "coordinates": { "latitude": 30.2741, "longitude": 120.1551 }
+  },
+  {
+    "id": "foshan",
+    "name": "Foshan",
+    "chineseName": "佛山",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Ancestral Temple, Qinghui Garden",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Ffoshan.png?alt=media",
+    "coordinates": { "latitude": 23.0218, "longitude": 113.1218 }
+  },
+  {
+    "id": "suzhou",
+    "name": "Suzhou",
+    "chineseName": "苏州",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Humble Administrator's Garden, Tiger Hill",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fsuzhou.png?alt=media",
+    "coordinates": { "latitude": 31.2989, "longitude": 120.5853 }
+  },
+  {
+    "id": "jinan",
+    "name": "Jinan",
+    "chineseName": "济南",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Baotu Spring, Daming Lake",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fjinan.png?alt=media",
+    "coordinates": { "latitude": 36.6512, "longitude": 117.1201 }
+  },
+  {
+    "id": "qingdao",
+    "name": "Qingdao",
+    "chineseName": "青岛",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Tsingtao Brewery, Zhanqiao Pier",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fqingdao.png?alt=media",
+    "coordinates": { "latitude": 36.0671, "longitude": 120.3826 }
+  },
+  {
+    "id": "zhengzhou",
+    "name": "Zhengzhou",
+    "chineseName": "郑州",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Shaolin Temple, Yellow River Scenic Area",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fzhengzhou.png?alt=media",
+    "coordinates": { "latitude": 34.7472, "longitude": 113.6249 }
+  },
+  {
+    "id": "shijiazhuang",
+    "name": "Shijiazhuang",
+    "chineseName": "石家庄",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Zhaozhou Bridge, Xibaipo Memorial",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fshijiazhuang.png?alt=media",
+    "coordinates": { "latitude": 38.0428, "longitude": 114.5149 }
+  },
+  {
+    "id": "dalian",
+    "name": "Dalian",
+    "chineseName": "大连",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Xinghai Square, Laohutan Ocean Park",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fdalian.png?alt=media",
+    "coordinates": { "latitude": 38.9140, "longitude": 121.6147 }
+  },
+  {
+    "id": "xiamen",
+    "name": "Xiamen",
+    "chineseName": "厦门",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Gulangyu Island, South Putuo Temple",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fxiamen.png?alt=media",
+    "coordinates": { "latitude": 24.4798, "longitude": 118.0819 }
+  },
+  {
+    "id": "nanning",
+    "name": "Nanning",
+    "chineseName": "南宁",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Qingxiu Mountain, Guangxi Museum",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fnanning.png?alt=media",
+    "coordinates": { "latitude": 22.8170, "longitude": 108.3665 }
+  },
+  {
+    "id": "changchun",
+    "name": "Changchun",
+    "chineseName": "长春",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Puppet Emperor's Palace, Changchun Film Studio",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fchangchun.png?alt=media",
+    "coordinates": { "latitude": 43.8171, "longitude": 125.3235 }
+  },
+  {
+    "id": "taiyuan",
+    "name": "Taiyuan",
+    "chineseName": "太原",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Jinci Temple, Twin Pagoda Temple",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Ftaiyuan.png?alt=media",
+    "coordinates": { "latitude": 37.8706, "longitude": 112.5489 }
+  },
+  {
+    "id": "urumqi",
+    "name": "Urumqi",
+    "chineseName": "乌鲁木齐",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Heavenly Lake, Xinjiang Regional Museum",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Furumqi.png?alt=media",
+    "coordinates": { "latitude": 43.8256, "longitude": 87.6168 }
+  },
+  {
+    "id": "zhongshan",
+    "name": "Zhongshan",
+    "chineseName": "中山",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Sun Yat-sen's Residence Memorial Museum, Zimaling Park",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fzhongshan.png?alt=media",
+    "coordinates": { "latitude": 22.5176, "longitude": 113.3929 }
+  },
+  {
+    "id": "hefei",
+    "name": "Hefei",
+    "chineseName": "合肥",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Lord Bao Park, Xiaoyaojin Park",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fhefei.png?alt=media",
+    "coordinates": { "latitude": 31.8206, "longitude": 117.2272 }
+  },
+  {
+    "id": "ningbo",
+    "name": "Ningbo",
+    "chineseName": "宁波",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Tianyi Pavilion, Dongqian Lake",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fningbo.png?alt=media",
+    "coordinates": { "latitude": 29.8683, "longitude": 121.5440 }
+  },
+  {
+    "id": "fuzhou",
+    "name": "Fuzhou",
+    "chineseName": "福州",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Three Lanes and Seven Alleys, Drum Mountain",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Ffuzhou.png?alt=media",
+    "coordinates": { "latitude": 26.0745, "longitude": 119.2965 }
+  },
+  {
+    "id": "nanchang",
+    "name": "Nanchang",
+    "chineseName": "南昌",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Tengwang Pavilion, Bayi Square",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fnanchang.png?alt=media",
+    "coordinates": { "latitude": 28.6820, "longitude": 115.8579 }
+  },
+  {
+    "id": "lanzhou",
+    "name": "Lanzhou",
+    "chineseName": "兰州",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "White Pagoda Park, Zhongshan Bridge",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Flanzhou.png?alt=media",
+    "coordinates": { "latitude": 36.0611, "longitude": 103.8343 }
+  },
+  {
+    "id": "nantong",
+    "name": "Nantong",
+    "chineseName": "南通",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Langshan Mountain, Haohe Scenic Area",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fnantong.png?alt=media",
+    "coordinates": { "latitude": 31.9803, "longitude": 120.8949 }
+  },
+  {
+    "id": "xuzhou",
+    "name": "Xuzhou",
+    "chineseName": "徐州",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Han Dynasty Terracotta Warriors, Yunlong Lake",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fxuzhou.png?alt=media",
+    "coordinates": { "latitude": 34.2044, "longitude": 117.2857 }
+  },
+  {
+    "id": "wenzhou",
+    "name": "Wenzhou",
+    "chineseName": "温州",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Jiangxin Island, Yandang Mountain",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fwenzhou.png?alt=media",
+    "coordinates": { "latitude": 27.9939, "longitude": 120.6990 }
+  },
+  {
+    "id": "linyi",
+    "name": "Linyi",
+    "chineseName": "临沂",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Mengshan Mountain, Yimeng Revolutionary Base",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Flinyi.png?alt=media",
+    "coordinates": { "latitude": 35.1045, "longitude": 118.3564 }
+  },
+  {
+    "id": "wuxi",
+    "name": "Wuxi",
+    "chineseName": "无锡",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Lingshan Grand Buddha, Taihu Lake",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fwuxi.png?alt=media",
+    "coordinates": { "latitude": 31.4912, "longitude": 120.3119 }
+  },
+  {
+    "id": "tangshan",
+    "name": "Tangshan",
+    "chineseName": "唐山",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Tangshan Earthquake Memorial Park, Kailuan National Mine Park",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Ftangshan.png?alt=media",
+    "coordinates": { "latitude": 39.6292, "longitude": 118.1742 }
+  },
+  {
+    "id": "hohhot",
+    "name": "Hohhot",
+    "chineseName": "呼和浩特",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Inner Mongolia Museum, Dazhao Temple",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fhohhot.png?alt=media",
+    "coordinates": { "latitude": 40.8424, "longitude": 111.7490 }
+  },
+  {
+    "id": "haikou",
+    "name": "Haikou",
+    "chineseName": "海口",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Haikou Volcanic Cluster Global Geopark, Holiday Beach",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fhaikou.png?alt=media",
+    "coordinates": { "latitude": 20.0444, "longitude": 110.1920 }
+  },
+  {
+    "id": "shaoxing",
+    "name": "Shaoxing",
+    "chineseName": "绍兴",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Lu Xun Native Place, East Lake",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fshaoxing.png?alt=media",
+    "coordinates": { "latitude": 30.0023, "longitude": 120.5746 }
+  },
+  {
+    "id": "yantai",
+    "name": "Yantai",
+    "chineseName": "烟台",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Penglai Pavilion, Yantai Mountain",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fyantai.png?alt=media",
+    "coordinates": { "latitude": 37.4638, "longitude": 121.4484 }
+  },
+  {
+    "id": "luoyang",
+    "name": "Luoyang",
+    "chineseName": "洛阳",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Longmen Grottoes, White Horse Temple",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fluoyang.png?alt=media",
+    "coordinates": { "latitude": 34.6836, "longitude": 112.4534 }
+  },
+  {
+    "id": "changsha",
+    "name": "Changsha",
+    "chineseName": "长沙",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Yuelu Mountain, Orange Island",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fchangsha.png?alt=media",
+    "coordinates": { "latitude": 28.2282, "longitude": 112.9388 }
+  },
+  {
+    "id": "dali",
+    "name": "Dali",
+    "chineseName": "大理",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Erhai Lake, Three Pagodas",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fdali.png?alt=media",
+    "coordinates": { "latitude": 25.6065, "longitude": 100.2675 }
+  },
+  {
+    "id": "guiyang",
+    "name": "Guiyang",
+    "chineseName": "贵阳",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Qianling Park, Jiaxiu Tower",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fguiyang.png?alt=media",
+    "coordinates": { "latitude": 26.6470, "longitude": 106.6302 }
+  },
+  {
+    "id": "harbin",
+    "name": "Harbin",
+    "chineseName": "哈尔滨",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Ice and Snow World, Saint Sophia Cathedral",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fharbin.png?alt=media",
+    "coordinates": { "latitude": 45.8038, "longitude": 126.5340 }
+  },
+  {
+    "id": "kunming",
+    "name": "Kunming",
+    "chineseName": "昆明",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Stone Forest, Dianchi Lake",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fkunming.png?alt=media",
+    "coordinates": { "latitude": 25.0389, "longitude": 102.7183 }
+  },
+  {
+    "id": "lijiang",
+    "name": "Lijiang",
+    "chineseName": "丽江",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Old Town of Lijiang, Jade Dragon Snow Mountain",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Flijiang.png?alt=media",
+    "coordinates": { "latitude": 26.8721, "longitude": 100.2346 }
+  },
+  {
+    "id": "nanjing",
+    "name": "Nanjing",
+    "chineseName": "南京",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Purple Mountain, Nanjing Massacre Memorial Hall",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fnanjing.png?alt=media",
+    "coordinates": { "latitude": 32.0603, "longitude": 118.7969 }
+  },
+  {
+    "id": "shenyang",
+    "name": "Shenyang",
+    "chineseName": "沈阳",
+    "isFavorite": false,
+    "isPopular": false,
+    "highlights": "Shenyang Imperial Palace, Beiling Park",
+    "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fcities%2Fshenyang.png?alt=media",
+    "coordinates": { "latitude": 41.8057, "longitude": 123.4315 }
+  }
+]
