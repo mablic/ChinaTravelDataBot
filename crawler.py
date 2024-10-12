@@ -1,9 +1,14 @@
 import json
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
+from dotenv import load_dotenv
+import os
 
-# Replace with your actual API key
-API_KEY = 'AIzaSyB91olCjO0desn4h5SwdxyU50VGcPnNKLQ'
+# Load environment variables from .env file
+load_dotenv()
+
+# Get API key from environment variable
+API_KEY = os.getenv('API_KEY')
 
 def load_cities():
     with open('cities.json', 'r', encoding='utf-8') as file:
@@ -54,6 +59,10 @@ def search_videos(city_name, api_key):
         return []
 
 def main():
+    if not API_KEY:
+        print("API_KEY not found in .env file")
+        return
+
     cities = load_cities()
     all_videos = {}
 
