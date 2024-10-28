@@ -88,15 +88,41 @@
   "xian": {
     "places": [
       {
-        "id": "4",
+        "id": "xian1",
         "name": "Terracotta Army",
         "chineseName": "兵马俑",
-        "description": "The Terracotta Army is a collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first Emperor of China. It is a form of funerary art buried with the emperor in 210–209 BCE with the purpose of protecting the emperor in his afterlife.",
-        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fxian%2F4.png?alt=media",
+        "description": "The Terracotta Army is a collection of terracotta sculptures depicting the armies of Qin Shi Huang, the first Emperor of China. It is a UNESCO World Heritage Site.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fxian%2Fxian1.png?alt=media",
         "location": { "latitude": 34.3841, "longitude": 109.2785 },
-        "address": "Lintong District, Xi'an, Shaanxi, China",
+        "address": "Lintong District, Xi'an, Shaanxi",
         "operationHours": "Daily: 8:30 AM - 5:00 PM",
         "phoneNumber": "+86 29 8139 9001",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "xian2",
+        "name": "Xi'an City Wall",
+        "chineseName": "西安城墙",
+        "description": "The Xi'an City Wall is one of the oldest, largest and best preserved city walls in China. Visitors can walk, cycle or take a buggy ride on top of the wall.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fxian%2Fxian2.png?alt=media",
+        "location": { "latitude": 34.2568, "longitude": 108.9354 },
+        "address": "2 Shuncheng E Alley, Beilin District, Xi'an",
+        "operationHours": "Daily: 8:00 AM - 10:00 PM",
+        "phoneNumber": "+86 29 8726 1374",
+        "likes": 0,
+        "comments": []
+      },
+      {
+        "id": "xian3",
+        "name": "Giant Wild Goose Pagoda",
+        "chineseName": "大雁塔",
+        "description": "The Giant Wild Goose Pagoda is a Buddhist pagoda built in 652 during the Tang dynasty. It is a well-preserved holy place for Buddhists.",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/chinatravel-15bd1.appspot.com/o/images%2Fplaces%2Fxian%2Fxian3.png?alt=media",
+        "location": { "latitude": 34.2192, "longitude": 108.9587 },
+        "address": "Yanta S Rd, Yanta District, Xi'an",
+        "operationHours": "Daily: 8:00 AM - 5:00 PM",
+        "phoneNumber": "+86 29 8552 6401",
         "likes": 0,
         "comments": []
       }

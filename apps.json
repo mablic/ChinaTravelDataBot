@@ -1,0 +1,100 @@
+{
+  "apps": [
+    { 
+      "name": "WeChat", 
+      "icon": "chatbubbles", 
+      "url": "https://www.wechat.com/",
+      "description": "WeChat is an essential all-in-one app in China, combining messaging, social media, and mobile payment functions. It's used for daily communication, sharing moments, making video calls, sending money, and accessing a wide range of services through its mini-programs ecosystem. It's practically impossible to live in China without WeChat.",
+      "features": ["Messaging", "Voice/Video Calls", "Mobile Payments", "Mini Programs"],
+      "comments": []
+    },
+    {
+      "name": "Alipay",
+      "icon": "wallet",
+      "url": "https://global.alipay.com/",
+      "description": "Alipay is the leading mobile payment platform in China, developed by Alibaba Group. It allows users to make payments, transfer money, pay bills, and access various financial services. Alipay is widely accepted in stores, restaurants, and online shops across China, making it an indispensable app for both locals and tourists.",
+      "features": ["Mobile Payments", "Money Transfers", "Bill Payments", "Investment Services"],
+      "comments": []
+    },
+    {
+      "name": "China Mobile",
+      "icon": "phone-portrait",
+      "url": "https://www.10086.cn/index/zj/index_571_571.html",
+      "description": "China Mobile is the largest mobile service provider in China. Their app allows users to manage their account, check data usage, pay bills, and purchase additional services. It's essential for travelers who get a China Mobile SIM card for their stay in China.",
+      "features": ["Account Management", "Data Usage Tracking", "Bill Payment", "Service Add-ons"],
+      "comments": []
+    },
+    {
+      "name": "China Unicom",
+      "icon": "cellular",
+      "url": "https://www.10010.com/",
+      "description": "China Unicom is another major mobile service provider in China. Their app offers similar functionality to China Mobile, allowing users to manage their account, track usage, and pay bills. It's useful for travelers who choose China Unicom for their mobile service in China.",
+      "features": ["Account Management", "Data Usage Tracking", "Bill Payment", "Customer Support"],
+      "comments": []
+    },
+    {
+      "name": "Booking.com",
+      "icon": "bed",
+      "url": "https://www.booking.com/",
+      "description": "Booking.com is a global hotel booking platform that works well in China. It offers a wide range of accommodations, from budget hostels to luxury hotels. The app provides user reviews, detailed property information, and often has competitive prices. It's particularly useful for international travelers who prefer an English-language interface.",
+      "features": ["Hotel Booking", "User Reviews", "Price Comparison", "Loyalty Program"],
+      "comments": []
+    },
+    {
+      "name": "Ctrip",
+      "icon": "airplane",
+      "url": "https://www.trip.com/",
+      "description": "Ctrip (also known as Trip.com) is China's leading online travel agency. The app allows users to book flights, hotels, train tickets, and tour packages both within China and internationally. It offers competitive prices, a user-friendly interface in multiple languages, and 24/7 customer service, making it an essential app for travelers in China.",
+      "features": ["Flight Bookings", "Hotel Reservations", "Train Tickets", "Tour Packages"],
+      "comments": []
+    },
+    {
+      "name": "12306",
+      "icon": "train",
+      "url": "https://www.12306.cn/",
+      "description": "12306 is the official app for booking train tickets in China, including high-speed rail. It allows users to search for train schedules, book and pay for tickets, and even order food for their journey. The app is essential for anyone planning to travel by train in China, offering a convenient way to secure tickets for China's extensive rail network.",
+      "features": ["Train Ticket Booking", "Schedule Search", "Seat Selection", "On-board Food Ordering"],
+      "comments": []
+    },
+    {
+      "name": "Hellobike",
+      "icon": "bicycle",
+      "url": "https://www.hellobike.com/",
+      "description": "Hellobike is one of China's leading bike-sharing apps, offering an eco-friendly and convenient way to navigate cities. Users can easily locate nearby bikes, unlock them via the app, and pay for their rides. It's an excellent option for short trips and last-mile transportation in many Chinese cities.",
+      "features": ["Bike Rental", "E-bike Rental", "GPS Navigation", "Ride History"],
+      "comments": []
+    },
+    {
+      "name": "Didi",
+      "icon": "car",
+      "url": "https://www.didiglobal.com/",
+      "description": "Didi is China's largest ride-hailing service, often referred to as the 'Uber of China'. It offers a range of transportation options including taxis, private cars, and even bike-sharing services. The app provides real-time vehicle tracking, fare estimates, and supports multiple languages, making it convenient for both Chinese residents and international visitors.",
+      "features": ["Taxi Hailing", "Private Car Service", "Bike Sharing", "Public Transportation Info"],
+      "comments": []
+    },
+    {
+      "name": "Baidu Maps",
+      "icon": "map",
+      "url": "https://map.baidu.com/",
+      "description": "Baidu Maps is the most popular navigation app in China, offering more accurate and detailed mapping of Chinese cities compared to Western alternatives. It provides real-time traffic information, public transit routes, walking directions, and local business search. The app also features augmented reality navigation and indoor mapping for large buildings and shopping centers.",
+      "features": ["Navigation", "Public Transit Routes", "Local Business Search", "Street View"],
+      "comments": []
+    },
+    {
+      "name": "Pleco",
+      "icon": "book",
+      "url": "https://www.pleco.com/",
+      "description": "Pleco is a comprehensive Chinese-English dictionary app, essential for language learners and travelers in China. It offers features like OCR (optical character recognition) for translating Chinese text through your camera, handwriting recognition for looking up characters, and an extensive database of words and phrases. It's an indispensable tool for navigating language barriers in China.",
+      "features": ["Chinese-English Dictionary", "OCR Translation", "Handwriting Recognition", "Flashcards"],
+      "comments": []
+    },
+    {
+      "name": "Meituan",
+      "icon": "restaurant",
+      "url": "https://www.meituan.com/",
+      "description": "Meituan is a comprehensive local services platform in China. While it's best known for food delivery, it offers much more. Users can book hotels, buy movie tickets, make restaurant reservations, and even book beauty services or fitness classes. The app often provides discounts and deals, making it a go-to choice for cost-conscious consumers looking for convenience and variety in local services.",
+      "features": ["Food Delivery", "Restaurant Reservations", "Movie Tickets", "Hotel Bookings"],
+      "comments": []
+    }
+  ]
+}

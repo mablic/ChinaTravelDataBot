@@ -84,8 +84,33 @@ def insert_videos_to_firebase(jsonName, collectionName):
     
     print(f"Successfully updated videos in Firebase.")
 
+def insert_apps_to_firebase(jsonName, collectionName):
+    # Read the apps.json file
+    with open(jsonName, 'r', encoding='utf-8') as file:
+        data = json.load(file)
+    
+    # Get a reference to the 'apps' collection
+    apps_ref = db.collection(collectionName)
+    
+    # Insert or update apps in Firebase
+    for app in data['apps']:
+        app_doc_ref = apps_ref.document(app['name'])
+        app_doc = app_doc_ref.get()
+
+        if app_doc.exists:
+            # App document exists, update it
+            app_doc_ref.update(app)
+            print(f"Updated app: {app['name']}")
+        else:
+            # App document doesn't exist, create it
+            app_doc_ref.set(app)
+            print(f"Created new app: {app['name']}")
+    
+    print(f"Successfully updated apps in Firebase.")
+
 # Call the functions to insert data
 if __name__ == "__main__":
     # insert_cities_to_firebase("cities.json", "cities")
-    insert_to_places_firebase("places.json", "places")
+    # insert_to_places_firebase("places_temp.json", "places")
     # insert_videos_to_firebase("videos.json", "videos")
+    insert_apps_to_firebase("apps.json", "apps")
